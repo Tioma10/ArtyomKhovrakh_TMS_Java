@@ -1,1 +1,1 @@
-# ArtyomKhovrakh_TMS_Java
+# Domashki po kursu Java
